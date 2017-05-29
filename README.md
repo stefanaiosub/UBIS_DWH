@@ -158,3 +158,8 @@ STRUCTURA(2)- observam legaturi one-to-many(diagrama) si one-to-one:
 -o cerere se face doar pentru o carte;
 -one-to-one pentru pulicare si evidenta relativ la CARTE.
 
+
+
+OBSERVATIE: Am creat un proiect JAVA prin care, cu ajutorul unor functii, face echivalentul unor select-uri si afiseaza intocmai ce vrem sa cautam--am atasat comentarii la fiecare pas.Am uploadat pe git clasele Client si Carte, respectiv clasa in care am facut conexiunea cu baza de date si clasa Main in care am instantiat obiectele si am apelat functiile.
+
+
