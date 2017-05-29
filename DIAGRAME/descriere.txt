@@ -1,0 +1,1 @@
+Aici am atasat cele 2 diagrame corespunzatoare celor 2 structuri ale bazei de date;relatiile one-to-one si one-to-many au fost adaugate doar la diagrama structurii a 2 a.
