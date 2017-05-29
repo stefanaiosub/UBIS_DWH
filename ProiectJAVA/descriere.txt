@@ -1,0 +1,1 @@
+Sursele proiectului JAVA pentru conexiunea bazei de date, instantierea unor obiecte de tip carte, respectiv client si cateva metode care simuleaza select-urile din plsql.
