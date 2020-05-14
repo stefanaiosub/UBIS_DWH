@@ -5,8 +5,6 @@
 
 
 DWH Project
-din cadrul
-UniCredit Business Integrated Solution Internship Program
 
 Proiect realizat de
 Iosub Stefana
